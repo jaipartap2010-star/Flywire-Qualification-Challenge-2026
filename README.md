@@ -135,8 +135,8 @@ verified as 36 one-way edges with none backward. In FAFB this cascade is fed by 
 ascending neuron from the ventral nerve cord and runs through a series of AVLP (anterior
 ventrolateral protocerebrum) neurons. It is included as a directional companion to the
 clique because it exercises the directionality constraint the clique does not, and its
-correspondence is fixed by position rather than arbitrary. Files: `feedforward_network.csv`,
-`feedforward_FAFB.graphml`, `feedforward_FAFB.png`. The interpretation of small directed
+correspondence is fixed by position rather than arbitrary. Files: `feedforward network materials/feedforward_network.csvv`,
+`feedforward network materials/feedforward_FAFB.graphml`, `feedforward network materials/FAFB_2D_feedforward.jpg`, and `feedforward network materials/FAFB_3D_feedforward.jpg`. The interpretation of small directed
 motifs as computational units follows the approach in Seung (2024), which predicts
 function from connectivity alone.
 
@@ -171,7 +171,7 @@ feedforward). All three clique columns pass at 703 of 703 reciprocal pairs.
 Requirements: Python 3 with `pandas`, `numpy`, `networkx`, `matplotlib`
 (`pip install pandas numpy networkx matplotlib`).
 
-All code is in the `solution/` folder (`scripts/`, `inputs/`, `RUN.md`). Place the
+All code is in the `reproduction/` folder (`scripts/`, `inputs/`, `RUN.md`). Place the
 challenge data in a `data/` folder next to `scripts/`, or set the `DATA_DIR`
 environment variable to point at it. Expected files: the five edge lists, plus
 `consolidated_cell_types.csv` (FAFB) and `neurons.csv` (BANC). The MCNS cell-type
@@ -206,7 +206,7 @@ larger graphs and take a few minutes.
 - `feedforward_FAFB.graphml`, `feedforward_FAFB.png` — feedforward circuit graph.
 - `connectome_eda.png` — exploratory analysis figure.
 - `science.md` — one-page biological summary.
-- `solution/` — runnable scripts, inputs, and run guide (see `solution/RUN.md`).
+- `reproduction/` — runnable scripts, inputs, and run guide (see `reproduction/RUN.md`).
 
 ## Limitations
 
