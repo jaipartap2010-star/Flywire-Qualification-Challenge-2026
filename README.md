@@ -59,7 +59,7 @@ because it is smaller.
 ## Exploratory analysis behind the choice
 
 Before committing, I measured structural properties of all five graphs
-(`connectome_eda.png`):
+(`images/connectome_eda.png`):
 
 - Reciprocity (fraction of edges whose reverse also exists): 14 to 17 percent in BANC,
   FAFB, MCNS; 28 to 30 percent in MANC and MAOL.
