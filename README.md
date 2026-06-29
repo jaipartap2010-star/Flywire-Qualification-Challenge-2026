@@ -59,7 +59,7 @@ because it is smaller.
 ## Exploratory analysis behind the choice
 
 Before committing, I measured structural properties of all five graphs
-(`images/connectome_eda.png`):
+(`main images/connectome_eda.png`):
 
 - Reciprocity (fraction of edges whose reverse also exists): 14 to 17 percent in BANC,
   FAFB, MCNS; 28 to 30 percent in MANC and MAOL.
@@ -135,8 +135,8 @@ verified as 36 one-way edges with none backward. In FAFB this cascade is fed by 
 ascending neuron from the ventral nerve cord and runs through a series of AVLP (anterior
 ventrolateral protocerebrum) neurons. It is included as a directional companion to the
 clique because it exercises the directionality constraint the clique does not, and its
-correspondence is fixed by position rather than arbitrary. Files: `feedforward network materials/feedforward_network.csvv`,
-`feedforward network materials/feedforward_FAFB.graphml`, `feedforward network materials/FAFB_2D_feedforward.jpg`, and `feedforward network materials/FAFB_3D_feedforward.jpg`. The interpretation of small directed
+correspondence is fixed by position rather than arbitrary. Files: `all feedforward network materials/feedforward_network.csvv`,
+`all feedforward network materials/feedforward_FAFB.graphml`, `all feedforward network materials/FAFB_2D_feedforward.jpg`, and `all feedforward network materials/FAFB_3D_feedforward.jpg`. The interpretation of small directed
 motifs as computational units follows the approach in Seung (2024), which predicts
 function from connectivity alone.
 

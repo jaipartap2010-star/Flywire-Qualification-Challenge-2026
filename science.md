@@ -1,10 +1,10 @@
 # A conserved reciprocal circuit in the *Drosophila* antennal lobe
 **Dataset: FAFB (FlyWire v783).** Largest bidirectional clique common to three connectomes (BANC, FAFB, MCNS); **N = 38**.
 
-![alt text](images/FAFB_2D_bidirectional-1.jpg) 
+![alt text](main images/FAFB_2D_bidirectional-1.jpg) 
 *38-neuron clique (FAFB). Cyan = antennal-lobe local neurons, magenta = projection neurons. All 1,406 ordered edges present (100% reciprocity); arrows omitted for legibility.*
 
-![alt text](images/FAFB_3D_bidirectional-1.jpg) 
+![alt text](main images/FAFB_3D_bidirectional-1.jpg) 
 *Same 38 neurons in the FAFB brain (Codex header: Cells 38). Dense mass = left antennal lobe; the two projection neurons are the only members leaving the lobe.*
 
 ## The circuit and what it does
