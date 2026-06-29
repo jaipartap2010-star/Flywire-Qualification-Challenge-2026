@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key id="d0" for="node" attr.name="rank" attr.type="long"/>
+<key id="d1" for="node" attr.name="celltype" attr.type="string"/>
+<key id="d2" for="node" attr.name="nt" attr.type="string"/>
+<key id="d3" for="node" attr.name="superclass" attr.type="string"/>
+<key id="e0" for="edge" attr.name="edgeclass" attr.type="string"/>
+<graph edgedefault="directed">
+<node id="720575940611255475"><data key="d0">0</data><data key="d1">AN_AVLP_34</data><data key="d2">acetylcholine</data><data key="d3">ascending</data></node>
+<node id="720575940624184764"><data key="d0">1</data><data key="d1">AVLP200</data><data key="d2">gaba</data><data key="d3">central</data></node>
+<node id="720575940639628870"><data key="d0">2</data><data key="d1">AVLP423</data><data key="d2">gaba</data><data key="d3">central</data></node>
+<node id="720575940628781178"><data key="d0">3</data><data key="d1">CB0927</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<node id="720575940627951376"><data key="d0">4</data><data key="d1">CB0450</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<node id="720575940610466514"><data key="d0">5</data><data key="d1">CB1459</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<node id="720575940638004806"><data key="d0">6</data><data key="d1">CB1459</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<node id="720575940624678808"><data key="d0">7</data><data key="d1">CB1111</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<node id="720575940634334559"><data key="d0">8</data><data key="d1">CB1111</data><data key="d2">acetylcholine</data><data key="d3">central</data></node>
+<edge source="720575940611255475" target="720575940624184764"><data key="e0">backbone</data></edge>
+<edge source="720575940611255475" target="720575940639628870"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940628781178"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940627951376"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940610466514"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940638004806"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940611255475" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940639628870"><data key="e0">backbone</data></edge>
+<edge source="720575940624184764" target="720575940628781178"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940627951376"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940610466514"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940638004806"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940624184764" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940639628870" target="720575940628781178"><data key="e0">backbone</data></edge>
+<edge source="720575940639628870" target="720575940627951376"><data key="e0">skip</data></edge>
+<edge source="720575940639628870" target="720575940610466514"><data key="e0">skip</data></edge>
+<edge source="720575940639628870" target="720575940638004806"><data key="e0">skip</data></edge>
+<edge source="720575940639628870" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940639628870" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940628781178" target="720575940627951376"><data key="e0">backbone</data></edge>
+<edge source="720575940628781178" target="720575940610466514"><data key="e0">skip</data></edge>
+<edge source="720575940628781178" target="720575940638004806"><data key="e0">skip</data></edge>
+<edge source="720575940628781178" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940628781178" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940627951376" target="720575940610466514"><data key="e0">backbone</data></edge>
+<edge source="720575940627951376" target="720575940638004806"><data key="e0">skip</data></edge>
+<edge source="720575940627951376" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940627951376" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940610466514" target="720575940638004806"><data key="e0">backbone</data></edge>
+<edge source="720575940610466514" target="720575940624678808"><data key="e0">skip</data></edge>
+<edge source="720575940610466514" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940638004806" target="720575940624678808"><data key="e0">backbone</data></edge>
+<edge source="720575940638004806" target="720575940634334559"><data key="e0">skip</data></edge>
+<edge source="720575940624678808" target="720575940634334559"><data key="e0">backbone</data></edge>
+</graph></graphml>
